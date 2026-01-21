@@ -1,5 +1,5 @@
 # MENTAL-HEALTH-ANALYSIS-2000-TO-2019
- **Read the full blog post here:**  
+ **Read the full blog post here:https://medium.com/@winfredgithimbo/global-mental-health-burden-analytics-1990-2019-ce1a8768bd6c**  
 
 This project explores global mental health trends using multi-source datasets covering mental illness prevalence, disability burden (DALYs), treatment gaps, and data coverage from 1990 to 2019. The analysis focuses on comparing prevalence and disability across disorders and countries.
 It examines major mental health disorders including depression, anxiety, bipolar disorder, schizophrenia, and eating disorders—and compares how frequently these conditions occur versus how much disability they cause.
